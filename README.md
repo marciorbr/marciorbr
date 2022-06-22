@@ -9,11 +9,6 @@ Olá! Eu sou Márcio Ribeiro de Oliveira, moro em Porto Velho/RO - Brasil.
 </div>
 <br>
 <br>
-
-### <strong>⌨ Linguagem</strong> ️
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### <strong>🛠️ Ferramentas</strong>
 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,git,kubernetes,postgres,py, )](https://skills.thijs.gg)
