@@ -3,14 +3,23 @@
 Olá! Eu sou Márcio Ribeiro de Oliveira, moro em Porto Velho/RO - Brasil.
 <br>
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&username=marciorbr" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=marciorbr" height="160" alt="languages graph"  />
+</div>
+<br>
+<br>
+
 ### <strong>⌨ Linguagem</strong> ️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### <strong>🛠️ Ferramentas</strong>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,git,kubernetes,postgres,py, )](https://skills.thijs.gg)
+
+<br>
+<br>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
