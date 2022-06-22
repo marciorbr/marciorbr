@@ -16,10 +16,7 @@ Olá! Eu sou Márcio Ribeiro de Oliveira, moro em Porto Velho/RO - Brasil.
 
 ### <strong>🛠️ Ferramentas</strong>
 
-[![My Skills](https://skills.thijs.gg/icons?i=docker,git,kubernetes,postgres,py, )](https://skills.thijs.gg)
-
-<br>
-<br>
+![My Skills(https://skills.thijs.gg/icons?i=docker,git,kubernetes,postgres,py, )](https://skills.thijs.gg)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
